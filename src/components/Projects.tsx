@@ -30,7 +30,7 @@ const projects: Project[] = [
     image: 'https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python'],
     category: 'Web App',
-    demo: 'https://example.com',
+    demo: 'https://dataqualitychecker-uy3ygqhkdgunk3trzwwkaq.streamlit.app/',
     repo: 'https://github.com/ROY8055/Data_Quality_Checker',
   },
   {
@@ -40,7 +40,7 @@ const projects: Project[] = [
     image: 'https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['HTML', 'CSS', 'JavaScript', 'jQuery'],
     category: 'Website',
-    demo: 'https://example.com',
+    demo: 'https://6824b23c6dd8fd2e451b6a2a--roycalculator.netlify.app/',
     repo: 'https://github.com/ROY8055/calculator',
   },
   {
