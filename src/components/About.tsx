@@ -36,8 +36,8 @@ const About: React.FC = () => {
                     <Calendar size={16} className="mr-2" />
                     <span>2021 - 2025</span>
                   </div>
-                  <h4 className="font-medium text-gray-900 dark:text-white">Bachelor of Science in Computer Science</h4>
-                  <p className="text-gray-600 dark:text-gray-300">University of Technology</p>
+                  <h4 className="font-medium text-gray-900 dark:text-white">Artifical Intalligance and Mechine Learning</h4>
+                  <p className="text-gray-600 dark:text-gray-300">JNTUK</p>
                 </div>
                 <div>
                   <div className="flex items-center text-sm text-gray-500 dark:text-gray-400 mb-1">
