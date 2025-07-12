@@ -5,7 +5,7 @@ const testimonials = [
   {
     name: 'Emma Rodriguez',
     role: 'Software Engineer at Google',
-    avatar: 'https://images.pexels.com/photos/3785424/pexels-photo-3785424.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&dpr=2',
+    avatar: 'https://dochub.com/hruday-kalluri/2GQ1NXoKy5xe5OLKDkW6bx/python-cisco-pdf',
     content: 'Working with this career coach completely transformed my job search. They helped me revamp my resume and LinkedIn, which led to multiple interviews and ultimately landing my dream role at Google. The interview preparation was invaluable!',
     rating: 5,
   },

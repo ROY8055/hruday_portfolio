@@ -1,6 +1,6 @@
 import React from 'react';
 import { Calendar, GraduationCap, Briefcase, User } from 'lucide-react';
-
+import Certificates from './Certificates'; // adjust the path if needed
 const About: React.FC = () => {
   return (
     <section id="about" className="py-20 bg-white dark:bg-gray-800">
@@ -19,7 +19,7 @@ const About: React.FC = () => {
               </div>
               <p className="text-gray-600 dark:text-gray-300">
                 I'm a Full stack python developer with a passion for creating clean, efficient, and user-friendly 
-                websites. Recently graduated with a degree in Artifical Intelligence and Mechine Learning, I specialize in using 
+                websites. Recently graduated with a batchlor of degree in Artifical Intelligence and Mechine Learning, I specialize in using 
                 modern technologies like React, TypeScript, VsCode, and Tailwind CSS to build beautiful 
                 digital experiences.
               </p>
@@ -123,6 +123,26 @@ const About: React.FC = () => {
                   </div>
                 </div>
               </div>
+<div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg mt-6">
+  <h3 className="text-xl font-semibold text-blue-600 dark:text-blue-400 mb-2">Certificates</h3>
+  <ul className="list-disc list-inside text-gray-700 dark:text-gray-300">
+    <li>
+      <a href="https://drive.google.com/file/d/1n69ixqAzwcinodXt0qKy5QjxOXZzL7cm/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+        Full Stack Development - HIMES (Sep 2025)
+      </a>
+    </li>
+    <li>
+      <a href="https://dochub.com/hruday-kalluri/2GQ1NXoKy5xe5OLKDkW6bx/python-cisco-pdf" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+        Python - Cisco (Aug 2024)
+      </a>
+    </li>
+    <li>
+      <a href="https://dochub.com/hruday-kalluri/ALzmZB7wMmnxeYXwX8J560/javascript-cisco-pdf" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+        JavaScript - Cisco (Aug 2024)
+      </a>
+    </li>
+  </ul>
+</div>
 
               <div className="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-lg">
                 <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Personal Traits</h3>
@@ -152,5 +172,5 @@ const About: React.FC = () => {
     </section>
   );
 };
-
+<Certificates />
 export default About;
