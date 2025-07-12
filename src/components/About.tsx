@@ -132,12 +132,17 @@ const About: React.FC = () => {
       </a>
     </li>
     <li>
-      <a href="https://dochub.com/hruday-kalluri/2GQ1NXoKy5xe5OLKDkW6bx/python-cisco-pdf" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+      <a href="https://drive.google.com/file/d/165BMYD8rOTLySCQJwhq0BTvIoOo9R2ls/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+        Full Stack Web Development using python - HIMES (Sep 2025)
+      </a>
+    </li>
+    <li>
+      <a href="https://drive.google.com/file/d/1oL1Zp1gPZewMWtI5OISaAgJ4TWtGMD-I/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
         Python - Cisco (Aug 2024)
       </a>
     </li>
     <li>
-      <a href="https://dochub.com/hruday-kalluri/ALzmZB7wMmnxeYXwX8J560/javascript-cisco-pdf" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+      <a href="https://drive.google.com/file/d/1yt3xH-X22n_qeLwLe31ZhIAsSbfRQSLD/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
         JavaScript - Cisco (Aug 2024)
       </a>
     </li>
