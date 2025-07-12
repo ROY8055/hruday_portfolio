@@ -37,7 +37,7 @@ const About: React.FC = () => {
                     <span>2021 - 2025</span>
                   </div>
                   <h4 className="font-medium text-gray-900 dark:text-white">Artifical Intelligence and Mechine Learning</h4>
-                  <p className="text-gray-600 dark:text-gray-300">JNTUK</p>
+                  <p className="text-gray-600 dark:text-gray-300">JNTUGV</p>
                 </div>
                 <div>
                   <div className="flex items-center text-sm text-gray-500 dark:text-gray-400 mb-1">
