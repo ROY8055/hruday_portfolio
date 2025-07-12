@@ -13,10 +13,10 @@ const Hero: React.FC = () => {
                 <span className="text-blue-600 dark:text-blue-400 inline-block">Hruday Kalluri</span>
               </h1>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-semibold text-gray-600 dark:text-gray-300">
-                Full satck python Developer
+                Full stack with python Developer
               </h2>
               <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto lg:mx-0">
-                A passionate full stack python developer crafting beautiful and functional web experiences.
+                A passionate full stack with python developer crafting beautiful and functional web experiences.
                 Fresh graduate with a strong foundation in modern technologies and design principles.
               </p>
             </div>

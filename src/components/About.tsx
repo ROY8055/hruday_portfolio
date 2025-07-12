@@ -19,8 +19,8 @@ const About: React.FC = () => {
               </div>
               <p className="text-gray-600 dark:text-gray-300">
                 I'm a Full stack python developer with a passion for creating clean, efficient, and user-friendly 
-                websites. Recently graduated with a degree in Artifical Intalligance and Mechine Learning, I specialize in using 
-                modern technologies like React, TypeScript, vs code, and Tailwind CSS to build beautiful 
+                websites. Recently graduated with a degree in Artifical Intelligence and Mechine Learning, I specialize in using 
+                modern technologies like React, TypeScript, VsCode, and Tailwind CSS to build beautiful 
                 digital experiences.
               </p>
             </div>
@@ -36,7 +36,7 @@ const About: React.FC = () => {
                     <Calendar size={16} className="mr-2" />
                     <span>2021 - 2025</span>
                   </div>
-                  <h4 className="font-medium text-gray-900 dark:text-white">Artifical Intalligance and Mechine Learning</h4>
+                  <h4 className="font-medium text-gray-900 dark:text-white">Artifical Intelligence and Mechine Learning</h4>
                   <p className="text-gray-600 dark:text-gray-300">JNTUK</p>
                 </div>
                 <div>

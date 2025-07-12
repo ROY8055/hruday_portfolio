@@ -15,8 +15,8 @@ const skillCategories: SkillCategory[] = [
     name: 'Frontend',
     icon: <Code size={24} />,
     skills: [
-      { name: 'HTML5', level: 90 },
-      { name: 'CSS3', level: 85 },
+      { name: 'HTML', level: 90 },
+      { name: 'CSS', level: 85 },
       { name: 'JavaScript', level: 80 },
       { name: 'React', level: 75 },
       { name: 'TypeScript', level: 70 },
@@ -94,7 +94,7 @@ const Skills: React.FC = () => {
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">My Skills</h2>
           <div className="h-1 w-20 bg-blue-600 dark:bg-blue-400 mx-auto rounded-full"></div>
           <p className="text-gray-600 dark:text-gray-400 mt-4 max-w-2xl mx-auto">
-            A showcase of my technical skills and competencies as a frontend developer.
+            A showcase of my technical skills and competencies as a full stack developer.
           </p>
         </div>
 
